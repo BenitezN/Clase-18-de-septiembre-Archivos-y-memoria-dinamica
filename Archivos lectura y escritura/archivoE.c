@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define ARCH	"c:\\Archivos\\bin.dat"
+#define ARCH	":\\bin.dat"
 #define ESC 27
 
 struct a{

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define ARCH	"c:\\Archivos\\bin.dat"
+#define ARCH	":\\bin.dat"
 
 struct a{
 		char nombre[31];
